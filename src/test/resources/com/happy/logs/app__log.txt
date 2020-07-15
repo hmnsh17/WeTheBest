@@ -1,0 +1,13 @@
+INFO    2020-07-14 17:10:43,029 [main] com.happy.base.Page  - Config file loaded !!!
+INFO    2020-07-14 17:10:43,033 [main] com.happy.base.Page  - OR file loaded !!!
+INFO    2020-07-14 17:10:56,131 [main] com.happy.base.Page  - Navigated to : http://zoho.com/
+INFO    2020-07-14 17:11:03,017 [main] com.happy.base.Page  - Clicking on an Element : login_XPATH
+INFO    2020-07-14 17:11:04,140 [main] com.happy.base.Page  - Typing in an Element : email_XPATH entered value as : hmnshgrvr@gmail.com
+INFO    2020-07-14 17:11:04,372 [main] com.happy.base.Page  - Clicking on an Element : nextbtn_XPATH
+INFO    2020-07-14 17:11:05,823 [main] com.happy.base.Page  - Typing in an Element : password_XPATH entered value as : himanshu@mg
+INFO    2020-07-14 17:11:06,017 [main] com.happy.base.Page  - Clicking on an Element : signbtn_XPATH
+INFO    2020-07-14 17:12:03,675 [main] com.happy.base.Page  - Clicking on an Element : crmlink_XPATH
+INFO    2020-07-14 17:12:08,290 [main] com.happy.base.Page  - Clicking on an Element : clickdot_XPATH
+INFO    2020-07-14 17:12:11,167 [main] com.happy.base.Page  - Clicking on an Element : dropacc_XPATH
+INFO    2020-07-14 17:12:17,747 [main] com.happy.base.Page  - Clicking on an Element : plusbtn_XPATH
+INFO    2020-07-14 17:12:23,122 [main] com.happy.base.Page  - Typing in an Element : crtacc_XPATH entered value as : Himanshu
