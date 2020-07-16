@@ -14,7 +14,7 @@ public class LoginTest extends BaseTest {
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
 	public void loginTest(Hashtable<String,String> data) {
 		
-		//Using plugin
+		//Using plugin it works perfect
 		HomePage home=new HomePage();
 		LoginPage lp=home.goToLogin();
 		ZohoAppPage zp=lp.doLogin(data.get("username"), data.get("password"));
