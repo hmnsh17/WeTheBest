@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 109.838 sec <<< FAILURE! - in TestSuite
+loginTest(com.happy.testcases.LoginTest)  Time elapsed: 8.495 sec  <<< FAILURE!
+java.lang.AssertionError: Failed due to login issue
+	at org.testng.Assert.fail(Assert.java:93)
+	at com.happy.testcases.LoginTest.loginTest(LoginTest.java:20)
+
